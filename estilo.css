@@ -27,5 +27,12 @@ main{
 article{
     display: flex;
     background-color: beige;
-    align-items: ;
+    align-items: center;
+    padding: 24px;
 }
+button{
+    background-color: aliceblue;
+color: cornflowerblue;
+padding: 32px;
+border-radius: 20px;
+}    
