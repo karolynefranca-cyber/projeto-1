@@ -1,7 +1,7 @@
 const botoes = document.querySelectorAll("button")
 console.log(botoes)
 
-botoes.forEach(function(botoes){
+botoes.forEach(function(botao){
     let curtiu = false;
     botao.addEventListener("click", botaoClicando)
 
@@ -9,6 +9,6 @@ botoes.forEach(function(botoes){
         console.log("botao clicando")
         let texto= botao.querySelector("span")
         texto.textContent++
-        
+
     }
 })
