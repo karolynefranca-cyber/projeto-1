@@ -1,3 +1,31 @@
 body{
     background-color: blueviolet;
 }
+
+body{
+    background-color: rgba(34, 34, 153, 0.856);
+    color:rgb(73, 209, 164)
+}
+.cabecalho{
+    background-color: azure;
+    text-align: center;
+    padding: 30px;
+    font-family: "Rufina", serif;
+    font-size: 30xp;
+}
+img{
+    width: 220px;
+    height:220px
+}
+
+main{
+    color: bisque;
+    max-width: 800px;
+    margin:0 auto;
+    padding: 16x;
+}
+article{
+    display: flex;
+    background-color: beige;
+    align-items: ;
+}
