@@ -22,7 +22,7 @@ main{
     color: rgb(65, 40, 9);
     max-width: 800px;
     margin:0 auto;
-    padding: 16x;
+    padding: 16px;
 }
 article{
     display: flex;
